@@ -2,7 +2,7 @@
 
 This page describes the BBPredNet.
 
-Link to the [2nd page]([test.md])
+Link to the [2nd page](test.md)
 
 Table | col
 ------| ---
