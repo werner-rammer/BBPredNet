@@ -6,10 +6,10 @@ Deep Neural Network for predicting bark beetle disturbance using TensorFlow.
 The data used for training and testing are observations from the Bavarian National Park, avaialable here: http://datadryad.org/resource/doi:10.5061/dryad.c5g9s
 See also the data preprocessing script prepare.data.R (written in R)
 
-This script trains and executes the model for Experiment 1 in the paper "Harnessing deep learning for predictive ecology" (XXX).
+This script trains and executes the model for Experiment 1 in the paper "Harnessing deep learning in ecology: An example predicting bark beetle outbreaks" (https://www.frontiersin.org/articles/10.3389/fpls.2019.01327).
 Three years of the data are used for testing (15.7%), the rest for training.
 
-More details in the publication: "Harnessing deep learning for predictive ecology" (XXX).
+More details in the publication: "Harnessing deep learning in ecology: An example predicting bark beetle outbreaks" (https://www.frontiersin.org/articles/10.3389/fpls.2019.01327).
 
 Steps to set up and run the model:
     * install Tensorflow (tested with 0.12 and 1.0): https://www.tensorflow.org/install
