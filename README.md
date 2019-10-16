@@ -16,6 +16,7 @@ The data used for training and testing are observations from the Bavarian Nation
 
 * prepare.data.R: R-Script for data preparation
 * bb_model_Experiment1.py: Deep Neural Network used for Experiment 1
+* bb_model_Experiment1_keras.py: The DNN for Experiment 1, but using Keras instead of TFLearn
 * bb_model_Experiment2.py: Deep Neural Network used for Experiment 2
 * training_data.zip: pre-processed training data (prepare.data.R)
 
