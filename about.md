@@ -1,8 +1,11 @@
 BBPredNet
 =========
-Werner Rammer, Rupert Seidl, 2017.
+Werner Rammer, Rupert Seidl, 2019.
 
-Deep Neural Network for predicting bark beetle disturbance using TensorFlow.
+Deep Neural Network for predicting bark beetle disturbance using TensorFlow. This is code and data for the publication:
+
+Rammer W, Seidl R, 2019: Harnessing deep learning in ecology: An example predicting bark beetle outbreaks, Front. Plant Sci., doi: 10.3389/fpls.2019.01327
+
 The data used for training and testing are observations from the Bavarian National Park, avaialable here: http://datadryad.org/resource/doi:10.5061/dryad.c5g9s
 
 Files:
